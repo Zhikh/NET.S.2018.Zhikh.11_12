@@ -2,11 +2,12 @@
 Consist edits for days 6 - 9
 ## Edits
 ### Day 6
-Tak2 (Polinomial):
+## [Tak2](https://github.com/Zhikh/NET.S.2018.Zhikh.05_06/commit/ff312a7f606dadc98033bebd3941083bfa95f833) (Polinomial):
 - Replace the loop of copying array elements to Array.CopyTo
 - Add private set for indexator
 - Refactor: overloading of the "+" and "-" operations
-- Add overloding for Add and Substruct
+- Add next methods: Add and Substruct 
+- Change implementation of Clone method
 ### [Day 7-8](https://github.com/Zhikh/NET.S.2018.Zhikh.07_08/commit/5036229936c784b834e8f5ebab0a5709665a8ab3)
 - Delete AnotherCustomer
 - Change area of try{}catch{} for unknown formats
