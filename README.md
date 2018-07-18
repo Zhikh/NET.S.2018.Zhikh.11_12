@@ -3,9 +3,10 @@ Consist edits for days 6 - 9
 ## Edits
 ### Day 6
 Tak2 (Polinomial):
-- Array.Copy
-- private setter for indexator
-- Add_operation and ect.
+- Replace the loop of copying array elements to Array.CopyTo
+- Add private set for indexator
+- Refactor: overloading of the "+" and "-" operations
+- Add overloding for Add and Substruct
 ### [Day 7-8](https://github.com/Zhikh/NET.S.2018.Zhikh.07_08/commit/5036229936c784b834e8f5ebab0a5709665a8ab3)
 - Delete AnotherCustomer
 - Change area of try{}catch{} for unknown formats
