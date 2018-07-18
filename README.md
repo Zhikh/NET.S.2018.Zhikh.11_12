@@ -6,9 +6,11 @@ Polinomial:
 - Array.Copy
 - private setter for indexator
 - Add_operation and ect.
-### Day 7-8
-- SB
-- try{}catch{}
+### [Day 7-8](https://github.com/Zhikh/NET.S.2018.Zhikh.07_08/commit/5036229936c784b834e8f5ebab0a5709665a8ab3)
+- Delete AnotherCustomer
+- Change area of try{}catch{} for unknown formats
+- Fix problem with ICustomFormatter
+- Update tests
 ### [Day 9](https://github.com/Zhikh/NET.S.2018.Zhikh.09)
 #### [Task1](https://github.com/Zhikh/NET.S.2018.Zhikh.09/tree/master/Task1)
 - [And usage of ICompare for Sort](https://github.com/Zhikh/NET.S.2018.Zhikh.09/blob/master/Task1/Logic.Task1/Sorter.cs)
