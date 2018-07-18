@@ -2,7 +2,7 @@
 Consist edits for days 6 - 9
 ## Edits
 ### Day 6
-Polinomial:
+Tak2 (Polinomial):
 - Array.Copy
 - private setter for indexator
 - Add_operation and ect.
