@@ -9,7 +9,7 @@ Polinomial:
 ### Day 7-8
 - SB
 - try{}catch{}
-### Day 9
+### [Day 9](https://github.com/Zhikh/NET.S.2018.Zhikh.09)
 #### [Task1](https://github.com/Zhikh/NET.S.2018.Zhikh.09/tree/master/Task1)
 - [And usage of ICompare for JuggleSort](https://github.com/Zhikh/NET.S.2018.Zhikh.09/commit/336d904d150bc04cdab36c37ee4fdd7a4d731040)
 - Create Max-, Min-, Sum- Compare in Logic.Task.Tests
