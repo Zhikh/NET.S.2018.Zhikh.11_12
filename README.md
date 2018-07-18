@@ -2,7 +2,7 @@
 Consist edits for days 6 - 9
 ## Edits
 ### Day 6
-### [Tak2](https://github.com/Zhikh/NET.S.2018.Zhikh.05_06/commit/ff312a7f606dadc98033bebd3941083bfa95f833) (Polinomial):
+#### [Tak2](https://github.com/Zhikh/NET.S.2018.Zhikh.05_06/commit/ff312a7f606dadc98033bebd3941083bfa95f833) (Polinomial):
 - Replace the loop of copying array elements to Array.CopyTo
 - Add private set for indexator
 - Refactor: overloading of the "+" and "-" operations
