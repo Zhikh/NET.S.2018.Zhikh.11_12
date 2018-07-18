@@ -11,9 +11,8 @@ Polinomial:
 - try{}catch{}
 ### Day 9
 #### [Task1](https://github.com/Zhikh/NET.S.2018.Zhikh.09/tree/master/Task1)
-- Throw out switch
-- Add IComparer
-- Create Max-, Min-, Sum- Comparer
+- [And usage of ICompare for JuggleSort](https://github.com/Zhikh/NET.S.2018.Zhikh.09/commit/336d904d150bc04cdab36c37ee4fdd7a4d731040)
+- Create Max-, Min-, Sum- Compare in Logic.Task.Tests
 #### [Task2](https://github.com/Zhikh/NET.S.2018.Zhikh.09/tree/master/Task2)
 - [Change project architecture](https://github.com/Zhikh/NET.S.2018.Zhikh.09/commit/fd3d42db8dc3d961c24d8448d0873653f0750cf7)
 - [Share common logic in the base class](https://github.com/Zhikh/NET.S.2018.Zhikh.09/commit/0f84c36ae208930d84ce14440c61101ee7bb9fa6?diff=unified)
